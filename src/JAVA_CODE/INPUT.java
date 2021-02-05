@@ -12,7 +12,7 @@ class GeeksforGeeks extends INPUT
     protected void getData() 
     { 
         System.out.println("Inside GeeksforGeeks"); 
-        System.out.println("Inside GeeksforGeeks"); 
+        //System.out.println("Inside GeeksforGeeks"); 
     } 
       
     protected void getValue() 
